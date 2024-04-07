@@ -1,6 +1,8 @@
-# Dashboard de Gerenciamento Logístico
+# Dashboard de Gerenciamento Logístico - Desafio Hermex Log
 
-Este repositório contém um dashboard interativo desenvolvido para facilitar a gestão e análise de pedidos e logística de entrega. Utilizando a ferramenta Power BI, este dashboard proporciona visualizações detalhadas para suportar decisões operacionais e estratégicas.
+Este desafio envolve a criação de um dashboard interativo como parte de um projeto prático, que simula uma situação real de negócios para a empresa fictícia de logística Hermex Log. As informações para o desenvolvimento deste projeto, incluindo o backlog de tarefas no Trello, as bases de dados, e a identidade visual da Hermex Log, foram fornecidas pela Alura.
+
+Este dashboard foi desenvolvido com a ferramenta Power BI e é destinado a facilitar a gestão e análise de pedidos e logística de entrega, proporcionando visualizações detalhadas e insights que suportam decisões operacionais e estratégicas.
 
 ## Características
 
